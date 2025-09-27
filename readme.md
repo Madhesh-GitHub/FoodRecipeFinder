@@ -1,1 +1,2 @@
-It is a react app to find food recipes with its ingredients.
+# FoodRecipeFinder
+## - It is a react app to find food recipes with its ingredients.
